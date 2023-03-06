@@ -1,0 +1,127 @@
+body{
+    background-color: #ACDDE7;
+}
+
+table, td{
+    color:#808080;
+    border:2px solid #2e5791;
+    border-collapse: collapse;
+    padding:2px;
+}
+
+p,pre{
+    background-color:#6DD6DA;
+    padding:10px;
+    border-radius: 10%;
+}
+
+#parrafo1{
+    margin-top: -28px;
+    margin-left: 200px;
+    margin-right: 900px;
+}
+
+#documento{
+    margin-left: 800px;
+    margin-right: 200px;
+}
+
+#foto{
+    width: 100px;
+    float:right;
+    border:5px solid #2e5791;
+    border-radius: 10%;
+    margin-right: 30px;
+    margin-top:150px
+}
+#infoGen{
+    border:2px solid #2e5791;
+}
+
+#info{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#nombre{
+    margin-right: 400px;
+
+}
+
+#barrio{
+    margin-right:600px;
+
+}
+#hogar{
+    color:#808080;
+    margin-right:200px;
+    margin-left: 1000px;
+}
+
+#correo{
+    margin-right: 450px;
+}
+
+#profesion{
+    padding-bottom:40px;
+}
+
+#exp{
+    margin-top: -80px;
+}
+
+#estado{
+    margin-right: 500px;
+}
+
+#nombre,#barrio,#correo,#estado,#estudio{
+    margin-left: 700px;
+}
+#apellido2,#municipio,#cel,#exp,#emp,#contrato{
+    margin-right: 900px;
+    margin-left: 300px; 
+}
+
+#apellido1,#departamento,#tel,#profesion,#trabajo{
+    margin-right: 1300px;
+}
+
+#documento,#apellido2,#nombre,#municipio,#barrio,#hogar,#cel,#correo,#estado{
+    margin-top:-55px;   
+}
+
+p,pre{
+    border:2px solid #2e5791;
+}
+
+#profesion,#exp,#estado{
+    margin-bottom: 20px;
+}
+
+#info2{
+    text-align: center;
+}
+
+#emp{
+    margin-top:-140px
+}
+
+#estudio{
+    margin-top: -90px;
+    margin-right: 500px;
+}
+
+#lugarEst{
+    margin-top:-60px;
+    margin-left: 1050px;
+    margin-bottom:100px;
+}
+
+.cuadrado{
+    width: 20px;
+    height: 20px;
+    color:#808080;
+    border: 2px solid #2e5791;
+    background-color: #62BEC1;
+    text-align: center;
+}
